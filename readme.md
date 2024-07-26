@@ -4,7 +4,7 @@ Utilities and scripts for managing Lilypad nodes.
 
 ## Contents
 
-- `update_lilypad.sh`: Automated update script for Lilypad binaries
+- `update/update_lilypad.sh`: Automated update script for Lilypad binaries
 - [List other key tools as they are added]
 
 ## Usage

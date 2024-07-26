@@ -16,7 +16,7 @@ This script automatically updates your Lilypad binary to the latest version.
 
 3. Run the script with sudo:
     ```
-    sudo ./update.sh
+    sudo ./update_lilypad.sh
     ```
 
 The script will check for updates, download the latest version if available, and restart the Lilypad service.

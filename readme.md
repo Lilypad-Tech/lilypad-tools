@@ -12,7 +12,7 @@ Utilities and scripts for managing Lilypad nodes.
 Each tool includes its own usage instructions. Generally:
 
 1. Clone this repository
-2. Navigate to the desired tool (`cd update` )
+2. Navigate to the desired tool (`cd update`)
 3. Follow the tool-specific README
 
 ## Contributing

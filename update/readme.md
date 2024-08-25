@@ -11,7 +11,7 @@ This script automatically updates your Lilypad binary to the latest version.
 
 2. Make the script executable:
     ```
-    chmod +x update.sh
+    chmod +x update_lilypad.sh
     ```
 
 3. Run the script with sudo:

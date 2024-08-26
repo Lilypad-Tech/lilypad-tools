@@ -6,7 +6,7 @@ This script automatically updates your Lilypad binary to the latest version.
 
 1. Download the script:
     ```
-    curl -O https://raw.githubusercontent.com/lilypad-tech/lilypad-tools/main/update_lilypad.sh
+    curl -O https://raw.githubusercontent.com/lilypad-tech/lilypad-tools/main/update/update_lilypad.sh
     ```
 
 2. Make the script executable:

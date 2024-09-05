@@ -91,6 +91,10 @@ If a Pull Request appears to be abandoned or has not seen any activity, please f
 
 Developer tooling added to this repo is eligible to earn Lilybit_ rewards once they have been resolved with an associated pull request.
 
+## License
+
+The Lilypad Network is an open source project licensed under an [Apache 2.0 license](https://github.com/Lilypad-Tech/lilypad/blob/main/LICENSE).
+
 ## Attribution
 
 This contribution guide was adapted from the [Tokio contributing guide](https://github.com/tokio-rs/tokio/blob/master/CONTRIBUTING.md)
